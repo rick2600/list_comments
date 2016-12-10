@@ -2,7 +2,7 @@ from binaryninja import *
 
 
 def do_formatting(comment):
-  return comment.replace("\n", "\\n")
+    return comment.replace("\n", "\\n")
 
 def list_comments(bv):
     all_comments = []
