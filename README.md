@@ -11,7 +11,7 @@ List all comments the user wrote.
 
 This plugin requires the following minimum version of Binary Ninja:
 
- * release - 9999
+ * release - 1.0.318
  * dev - 1.0.dev-576
 
 
