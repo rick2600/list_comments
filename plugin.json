@@ -1,7 +1,7 @@
 {
 	"plugin": {
 		"name": "List Comments",
-		"type": ["core", "ui", "architecture", "binaryview"],
+		"type": ["ui"],
 		"api": "python2",
 		"description": "List all comments.",
 		"longdescription": "List all comments the user wrote.",
